@@ -3,3 +3,4 @@ exports.sayWhat = function() {
 }
 
 console.log('teste')
+console.log('bump');
